@@ -2,6 +2,8 @@
 
 Welcome to [my first cool website]! This is an advanced HTML project that aims to [briefly describe the purpose or goal of your website]. This README will guide you through the project setup and provide an overview of its features.
 
+![Project](https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20230527%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230527T213159Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ff8e8fd0df5ae597ddd598a78790a662fdff4d4feb580b6b8c40c5caa33c86c6)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
