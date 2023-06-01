@@ -1,6 +1,6 @@
 # Advanced HTML
 
-Welcome to [my first cool website]! This is an advanced HTML project that aims to [briefly describe the purpose or goal of your website]. This README will guide you through the project setup and provide an overview of its features.
+Welcome to my first cool website! This is an advanced HTML project that aims to market an online mentoring company. This README will guide you through the project setup and provide an overview of its features.
 
 
 ![Project](https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn)
@@ -30,7 +30,7 @@ The website is still just a simple HTML file with simple HTML elements and soon 
 
 ## Contributing
 
-We welcome contributions from everyone! If you'd like to contribute to [Project Name], please follow these guidelines:
+We welcome contributions from everyone! If you'd like to contribute to get schooled, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature-name`.
