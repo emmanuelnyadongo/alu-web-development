@@ -1,4 +1,4 @@
-# Advanced HTML
+# Advanced HTML and CSS
 
 Welcome to my first cool website! This is an advanced HTML and CSS project that aims to market an online mentoring company. This README will guide you through the project setup and provide an overview of its features.
 
