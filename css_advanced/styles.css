@@ -342,13 +342,13 @@ main {
     margin-bottom: 0.1rem;
 }
 
-.faq-list {
+.faq {
     display: flex;
     padding-left: 10%;
     padding-right: 10%;
 }
 
-.faq-item {
+.faq_example {
     display: flex;
     flex: 50%;
     flex-direction: column;
@@ -362,7 +362,7 @@ footer {
     margin: -8px;
 }
 
-.ft-container {
+.footer_nv {
     display: flex;
     flex-direction: column;
 }
@@ -371,14 +371,15 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 4rem 8rem 4rem 8rem;
+    justify-content: right;
 }
 
-.nav-ft div a {
+.footer_nav div a {
     margin-left: 0.4rem;
     margin-right: 0.5rem;
 }
 
-.ft-container p {
+.footer_block p {
     color: white;
     opacity: 0.35;
     text-align: center;
