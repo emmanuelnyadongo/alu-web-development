@@ -98,7 +98,7 @@ header .links a {
     padding: 1rem;
 }
 
-.secondary-color {
+.learn_secondary {
     color: #c271ff;
 }
 
@@ -126,7 +126,7 @@ header .links a {
     justify-content: center;
 }
 
-.pros-card {
+.pro_info {
     width: 19%;
     margin-bottom: 7rem;
     display: flex;
@@ -140,7 +140,7 @@ header .links a {
     max-width: 80%;
 }
 
-.pros-card h3 {
+.pro_info h3 {
     font-weight: 900;
     font-size: 18px;
     margin-top: 0.2rem;
@@ -148,7 +148,7 @@ header .links a {
     text-align: center;
 }
 
-.pros-card p {
+.pro_info p {
     font-style: italic;
     text-align: center;
     font-size: 16px;
