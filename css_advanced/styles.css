@@ -7,7 +7,7 @@ header {
     display: flex;
     flex-direction: row;
     flex: auto;
-    background-image: url(background.png);
+    background-image: url(.//images/background.png);
     padding: 2% 5% 2% 5%;
     filter: grayscale(100%);
     position: absolute;
@@ -102,13 +102,13 @@ header .links a {
     color: #c271ff;
 }
 
-.pros {
+.second_block {
     padding: 2%;
     display: flex;
     flex-direction: column;
 }
 
-.pros-title {
+.pro_heading {
     position: relative;
     align-self: center;
     padding: 2rem;
@@ -116,7 +116,7 @@ header .links a {
     line-height: 40px;
 }
 
-.pros-title .secondary-color {
+.pro-title .learn_secondary {
     font-weight: 700;
 }
 
